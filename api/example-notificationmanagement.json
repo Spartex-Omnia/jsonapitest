@@ -2,7 +2,7 @@
   {
     "id": 1,
     "user": "John Doe",
-    "userphoto": "InsertURL",
+    "userphoto": "https://spartex-omnia.github.io/jsonapitest/images/user-1.jpg",
     "department": "IT Dept",
     "notificationstatus": "Unread",
     "notificationtitle": "Meeting Reminder",
@@ -13,7 +13,7 @@
   {
     "id": 2,
     "user": "Alice Smith",
-    "userphoto": "InsertURL",
+    "userphoto": "https://spartex-omnia.github.io/jsonapitest/images/user-2.jpg",
     "department": "HR Dept",
     "notificationstatus": "Read",
     "notificationtitle": "New Policy Update",
@@ -23,8 +23,8 @@
   },
   {
     "id": 3,
-    "user": "Bob Johnson",
-    "userphoto": "InsertURL",
+    "user": "Amelia Heart",
+    "userphoto": "https://spartex-omnia.github.io/jsonapitest/images/user-3.jpg",
     "department": "Accounting Dept",
     "notificationstatus": "Unread",
     "notificationtitle": "Expense Report Reminder",
