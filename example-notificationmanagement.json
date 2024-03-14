@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "user": "John Doe",
+    "userphoto": "InsertURL",
+    "department": "IT Dept",
+    "notificationstatus": "Unread",
+    "notificationtitle": "Meeting Reminder",
+    "notificationmessage": "Don't forget about the meeting tomorrow!",
+    "notificationdatecreated": "03/14/2024 10:30:00 am",
+    "notificationlayout": 2
+  },
+  {
+    "id": 2,
+    "user": "Alice Smith",
+    "userphoto": "InsertURL",
+    "department": "HR Dept",
+    "notificationstatus": "Read",
+    "notificationtitle": "New Policy Update",
+    "notificationmessage": "Please review the updated policies.",
+    "notificationdatecreated": "03/14/2024 11:45:00 am",
+    "notificationlayout": 3
+  },
+  {
+    "id": 3,
+    "user": "Bob Johnson",
+    "userphoto": "InsertURL",
+    "department": "Accounting Dept",
+    "notificationstatus": "Unread",
+    "notificationtitle": "Expense Report Reminder",
+    "notificationmessage": "Submit your expense report by end of week.",
+    "notificationdatecreated": "03/14/2024 1:20:00 pm",
+    "notificationlayout": 1
+  }
+]
