@@ -64,5 +64,38 @@
     "notificationmessage": "Don't forget about the training session scheduled for this Friday.",
     "notificationdatecreated": "03/14/2024 6:30:00 pm",
     "notificationlayout": 1
+  },
+  {
+    "id": 7,
+    "user": "John Doe",
+    "userphoto": "https://spartex-omnia.github.io/jsonapitest/images/user-1.jpg",
+    "department": "IT Dept",
+    "notificationstatus": "Read",
+    "notificationtitle": "Project Update",
+    "notificationmessage": "Dear team, I wanted to provide you with an update on the progress of our current project. We have successfully completed the first phase and are now moving on to the next stage. There are some challenges ahead, but with our collective effort, I am confident we can overcome them. Please review the attached document for detailed information. Best regards, John",
+    "notificationdatecreated": "03/14/2024 8:45:00 pm",
+    "notificationlayout": 2
+  },
+  {
+    "id": 8,
+    "user": "Alice Smith",
+    "userphoto": "https://spartex-omnia.github.io/jsonapitest/images/user-2.jpg",
+    "department": "HR Dept",
+    "notificationstatus": "Unread",
+    "notificationtitle": "Employee Feedback Survey",
+    "notificationmessage": "Hello team, We value your feedback and would like to invite you to participate in our annual employee feedback survey. Your responses will help us identify areas for improvement and ensure a better working environment for everyone. Please take a few moments to complete the survey by following the link provided. Thank you for your participation! Best regards, Alice",
+    "notificationdatecreated": "03/14/2024 9:55:00 pm",
+    "notificationlayout": 3
+  },
+  {
+    "id": 9,
+    "user": "Amelia Heart",
+    "userphoto": "https://spartex-omnia.github.io/jsonapitest/images/user-3.jpg",
+    "department": "Accounting Dept",
+    "notificationstatus": "Unread",
+    "notificationtitle": "Quarterly Financial Report",
+    "notificationmessage": "Dear colleagues, I am pleased to share with you the quarterly financial report for the period ending March 2024. Despite some challenges in the market, our company has managed to achieve solid results. Please review the attached document for a detailed analysis of our financial performance. If you have any questions or require further clarification, feel free to reach out to me. Best regards, Bob",
+    "notificationdatecreated": "03/14/2024 10:30:00 pm",
+    "notificationlayout": 1
   }
 ]
