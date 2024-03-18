@@ -35,7 +35,7 @@
   {
     "id": 4,
     "user": "Emily Brown",
-    "userphoto": "InsertURL",
+    "userphoto": "https://spartex-omnia.github.io/jsonapitest/images/user-4.jpg",
     "department": "Services Dept",
     "notificationstatus": "Unread",
     "notificationtitle": "Client Meeting Tomorrow",
@@ -46,7 +46,7 @@
   {
     "id": 5,
     "user": "Michael Clark",
-    "userphoto": "InsertURL",
+    "userphoto": "https://spartex-omnia.github.io/jsonapitest/images/user-4.jpg",
     "department": "Leases Dept",
     "notificationstatus": "Read",
     "notificationtitle": "Office Closure Notice",
@@ -57,7 +57,7 @@
   {
     "id": 6,
     "user": "Sarah Johnson",
-    "userphoto": "InsertURL",
+    "userphoto": "https://spartex-omnia.github.io/jsonapitest/images/user-6.jpg",
     "department": "HR Dept",
     "notificationstatus": "Unread",
     "notificationtitle": "Training Session Reminder",
