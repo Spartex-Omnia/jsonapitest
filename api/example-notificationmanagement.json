@@ -31,5 +31,38 @@
     "notificationmessage": "Submit your expense report by end of week.",
     "notificationdatecreated": "03/14/2024 1:20:00 pm",
     "notificationlayout": 1
+  },
+  {
+    "id": 4,
+    "user": "Emily Brown",
+    "userphoto": "InsertURL",
+    "department": "Services Dept",
+    "notificationstatus": "Unread",
+    "notificationtitle": "Client Meeting Tomorrow",
+    "notificationmessage": "Prepare for the client meeting scheduled for tomorrow.",
+    "notificationdatecreated": "03/14/2024 3:10:00 pm",
+    "notificationlayout": 2
+  },
+  {
+    "id": 5,
+    "user": "Michael Clark",
+    "userphoto": "InsertURL",
+    "department": "Leases Dept",
+    "notificationstatus": "Read",
+    "notificationtitle": "Office Closure Notice",
+    "notificationmessage": "The office will be closed for maintenance next Monday.",
+    "notificationdatecreated": "03/14/2024 4:55:00 pm",
+    "notificationlayout": 3
+  },
+  {
+    "id": 6,
+    "user": "Sarah Johnson",
+    "userphoto": "InsertURL",
+    "department": "HR Dept",
+    "notificationstatus": "Unread",
+    "notificationtitle": "Training Session Reminder",
+    "notificationmessage": "Don't forget about the training session scheduled for this Friday.",
+    "notificationdatecreated": "03/14/2024 6:30:00 pm",
+    "notificationlayout": 1
   }
 ]
